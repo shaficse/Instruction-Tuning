@@ -119,6 +119,8 @@ python app.py
    <img src="figure/app-1.png"> 
 Navigate to `http://127.0.0.1:5000/` in  web browser to interact with the application.
 
+**Live Demo**  [Link](https://huggingface.co/spaces/shaficse/query-instruction-llm)
+
 ## Conclusion
 
 This project demonstrates a comprehensive approach to developing a text generation model from dataset preparation through deployment in a web application. It utilizes modern tools and libraries, emphasizing user interaction and model performance evaluation.
