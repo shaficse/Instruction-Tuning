@@ -1,0 +1,7 @@
+transformers==4.36.2
+datasets==2.16.1
+torch==2.1.2
+numpy==1.25.2
+matplotlib==3.8.2
+nltk==3.8.1
+Flask==2.2.5
