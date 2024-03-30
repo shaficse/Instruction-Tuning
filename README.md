@@ -35,7 +35,7 @@ Install all required dependencies by running:
 ```bash
 pip install -r requirements.txt
 ```
-
+Model files are stored in [Google Drive Link](https://drive.google.com/drive/folders/1f_AQTAiZBNVa_OLEgTGH2aBrPA0dp5f8?usp=sharing)
 ## Dataset Preparation
 
 ### Training and Evaluation Datasets
